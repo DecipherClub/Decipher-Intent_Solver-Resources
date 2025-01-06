@@ -1,4 +1,4 @@
-# Decipher Club: Best Resources for Intent-Solver Systems in Web3
+# Decipher Club: Best Resources for Intent-Solver Systems
 
 This repository provides a curated list of the best resources to understand and dive deeper into Intent-Solver systems in Web3. The list is categorized into introductory articles, deep dives, and technical guides for builders.
 
